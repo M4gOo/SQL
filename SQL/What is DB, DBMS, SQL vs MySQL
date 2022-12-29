@@ -1,0 +1,17 @@
+editor in the browser
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_or
+
+Database -> collection, a method for accessing and manipulating data
+
+DBMS (database management system), RB ->allows us to interface with the database, helps the communication between app and database.
+
+Pepole use database to refer to DBMS and database.
+Examples of Relational DBs:
+PostgresSQL, MySQL, OracleDB, SQLite
+The difference between them are the features they offer
+
+===========================================
+SQL   vs    MySQL
+Structured Query Language.
+SQL is the language to talk to the databases.
+MySQL is the Database Managment System 
